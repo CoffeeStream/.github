@@ -10,7 +10,6 @@
 
 ### Technologies
 <p align="center">
-    <img src="http://forthebadge.com/images/badges/built-with-love.svg" alt="heart">
   <img height="30" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
@@ -25,3 +24,7 @@
     <img height="200" src="https://lanyard-profile-readme.vercel.app/api/638071631377596461"/>
     <img height="200" src="https://lanyard-profile-readme.vercel.app/api/638071631377596461"/>
 </p>
+
+<p align="right">
+        <img height="50" src="http://forthebadge.com/images/badges/built-with-love.svg" alt="heart">
+    </p>
